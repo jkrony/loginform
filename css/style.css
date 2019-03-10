@@ -1,0 +1,51 @@
+
+body{
+	background: url(../img/bg.jpeg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+
+.container{
+	width: 500px;
+	margin: 15% auto;
+}
+
+
+.contact-form{
+
+	background-color: limegreen;
+
+	padding: 50px;
+
+}
+
+.contact-form img{
+	display: block;
+    margin: 0 auto;
+    border-radius: 112px;
+}
+
+.contact-form h2{
+	color: blue;
+    text-align: center;
+    font-size: 40px;
+    text-transform: capitalize;
+}
+.form-manage{
+
+	width: 100%;
+	height: 45px;
+	margin-bottom: 10px;
+	padding: 5px;
+}
+
+.btn{
+	background: rebeccapurple;
+    font-size: 20px;
+    padding: 10px 50px;
+    text-transform: capitalize;
+    border-radius: 12px;
+    cursor: pointer;
+
+}
